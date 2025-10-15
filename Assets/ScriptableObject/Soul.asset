@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca6a375418c275f4c89edd4c1f3e089c, type: 3}
+  m_Name: Soul
+  m_EditorClassIdentifier: 
+  lootSprite: {fileID: 21300000, guid: 55ab7cdd7a24f534f9cff8ecabfef19f, type: 3}
+  lootName: Soul
+  dropChance: 100
